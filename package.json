@@ -1,0 +1,16 @@
+{
+  "name": "estudy.dev",
+  "version": "1.0.0",
+  "description": "Estudando com o curso.dev, clone-tabnews Dia 2",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
